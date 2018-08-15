@@ -17,7 +17,7 @@
 <h3 align="center">Project Screenshots</h1>
 
 <p align="center">
-  <img src="images/bedana.jpg" height="200">
-  <img src="images/komla.jpg" height="200">
-  <img src="images/grapes.jpg" height="200">
+  <img src="images/dal1.JPG" height="200">
+  <img src="images/dal2.JPG" height="200">
+  <img src="images/dal3.JPG" height="200">
 </p>  
