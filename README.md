@@ -1,3 +1,1 @@
-# learning-git
-# Learning Git
-<img src="images/bedana.jpg" width="100" >
+<h1 align="center">Laravel</h1>
