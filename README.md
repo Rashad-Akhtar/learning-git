@@ -1,20 +1,40 @@
-<h1 align="center">Dailyneeds - An Ecommerce Website</h1>
+<h1 align="center">Forum Discussion Application</h1>
 
-<b>Description :- </b>
-<p>This website has detailed information about different categorized products . People can see the products name as well as their descriptive information. Every user has to be registered to buy products . Customers will get cart system in this website so that they can select multiple products at a time and can order them. This website has an improved product search bar to search product by inserting them or by selecting them as category . Customers can search products by giving a price range . Customer can also give feedback about our products . Customers can see their shopping history in their profile . This website maintains a very good user interface . This website has ajax search bar . This website also has imgae magnifier feature . </p>
+## Description
+
+<p>It's an application where people can create discussions on various topics in which they face problems . For each discussion there is comment section where people can share their thoughts on that particular discussion . Only registered users can create discussion and comment . People can like or dislike a particular comment . Among those comments the creator of that discussion can select the best comment and then the comment section will turn off . Users also have points . By default an user will get 20 points , for each comment user will get 10 points , if a particular user's comment is selected as best answer that user will get 200 points . There are also filter systems in these application . Open discussions , close discussions , channels can be filtered out . There are also many more features in this application . </p>
 <br>
 
-**How To Run This Project**
+## How To Run This Project
 
-<p><b> Step - 1 :- </b> Create a database named needy in your phpmyadmin and then in that database import a file named needy.sql which is given here . </p>
+<p><b> Step - 1 :- </b> Download or clone this project from this repository . </p>
 
-<p><b> Step -2 :- </b> Now run the index.html file which is provided here and hopefully you will see the index page . </p>
+<p><b> Step - 2 :- </b> Create a database named forum in your phpmyadmin .</p>
 
-<p><b> Step -3 :- </b> Now you can search products , add the products to the cart , buy products . </p>
+<p><b> Step - 3 :- </b> Go to your directory where your downloaded or cloned project is located . Open your terminal . Now run this command :- </p>
+
+```
+php artisan serve
+```
+Now copy that localhost link and paste it in your browser .
+
+<p><b> Step - 4 :- </b> Run this command in your terminal :-  </p>
+
+```
+php artisan migrate:refresh 
+```
+
+<p><b> Step - 5 :- </b> Then run this command in your terminal :- </p>
+
+```
+php artisan db:seed
+```
+
+<p><b> Step - 6 :- </b> Now to access the administrator account log in with password "admin" and email "admin@rash.com" </p>
 <br>
 
 
-<h3 align="center">Project Screenshots</h1>
+<h2 align="center">Project Screenshots</h2>
 
 <p align="center">
   <img src="images/dal1.JPG" width="400">
