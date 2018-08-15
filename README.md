@@ -17,6 +17,6 @@
 <h3 align="center">Project Screenshots</h1>
 
 <p align="center">
-  <img src="images/dal1.JPG" width="300">
-  <img src="images/dal2.JPG" width="300">
+  <img src="images/dal1.JPG" width="400">
+  <img src="images/dal2.JPG" width="400">
 </p>  
