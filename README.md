@@ -19,4 +19,9 @@
 <p align="center">
   <img src="images/dal1.JPG" width="400">
   <img src="images/dal2.JPG" width="400">
+</p>
+
+<p align="center">
+  <img src="images/dal4.JPG" width="400">
+  <img src="images/dal5.JPG" width="400">
 </p>  
